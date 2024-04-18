@@ -1,13 +1,32 @@
-# Django Event Management System.
+# Book My Events
 
-## How To Setup On Linux
-1. Clone This Project `git clone https://github.com/sajib1066/django-event-management.git`
-2. Go to Project Directory `cd django-event-management`
-3. Create a Virtual Environment `python3 -m venv env`
-4. Activate Virtual Environment `source env/bin/activate`
-5. Install Requirements Package `pip install -r requirements.txt`
-6. Migrate Database `python manage.py migrate`
-7. Create Super User `python manage.py createsuperuser`
-8. Finally Run The Project `python manage.py runserver`
+A website using Python for helping students find and post events around their university.
+
+![Screenshot of the website](/Screen.png)
+
+## Description
+
+Developed using a User Centered Design process with Brainstorming, Affinity Diagramming, conducting focus groups, creating Personas, Storyboards & Wireframing. 
+
+[*Full UCD process here*](https://prernapragati94.wixsite.com/website/design)
+
+## Frameworks Used
+* Python
+* Django
+* OpenAI API
+
+### Features
+* Find Events
+* Organize and Promote event
+* Look for Groups
+* Event Perks
+* Register for Events
+* How do I get There
+
+## Video Demo
+[*Full video demo of the website*](https://prernapragati94.wixsite.com/website/solution-1)
 
 
+## Authors
+
+Prashast Sharma - [LinkedIn](https://www.linkedin.com/in/prashast-sharma-690778230/)
