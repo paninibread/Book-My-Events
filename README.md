@@ -11,6 +11,7 @@ Developed using a User Centered Design process with Brainstorming, Affinity Diag
 [*Full UCD process here*](https://prernapragati94.wixsite.com/website/design)
 
 ## Frameworks Used
+* JavaScript
 * Python
 * Django
 * OpenAI API
